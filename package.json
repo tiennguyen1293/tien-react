@@ -1,7 +1,13 @@
 {
-  "name": "story-cra-v2",
+  "name": "tien-react",
   "version": "0.1.0",
   "private": true,
+  "author": "Tien Nguyen",
+  "description": "This is react boilerplate by Tien Nguyen",
+  "engines": {
+    "npm": ">=5",
+    "node": ">=8.10.0"
+  },
   "browserslist": [
     ">0.2%",
     "not dead",
